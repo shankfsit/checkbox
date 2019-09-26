@@ -23,3 +23,4 @@ if($('input[type=checkbox]:checked').length == 0)
 return valid;
 }
 </script>
+https://www.code-sample.com/2018/01/angular-6-interview-questions-and.html
